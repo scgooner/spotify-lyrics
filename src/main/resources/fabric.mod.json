@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "spotifylyrics",
+  "version": "${version}",
+  "name": "Spotify Lyrics",
+  "description": "Shows synced lyrics of your currently playing Spotify song in-game. No Spotify login needed.",
+  "authors": ["You"],
+  "environment": "client",
+  "entrypoints": { "client": ["dev.spotifylyrics.SpotifyLyricsClient"] },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

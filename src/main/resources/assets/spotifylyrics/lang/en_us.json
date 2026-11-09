@@ -1,0 +1,6 @@
+{
+  "key.spotifylyrics.toggle": "Toggle lyrics",
+  "key.spotifylyrics.earlier": "Lyrics earlier (-0.25s)",
+  "key.spotifylyrics.later": "Lyrics later (+0.25s)",
+  "key.category.spotifylyrics.main": "Spotify Lyrics"
+}
